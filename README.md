@@ -1,4 +1,5 @@
 🚀 TechStore 
+
 This project is a sophisticated e-commerce front-end application built to demonstrate advanced UI/UX principles, modern design patterns, and a clean, responsive user experience. It features a stunning design and core e-commerce functionality without a back-end.
 
 
